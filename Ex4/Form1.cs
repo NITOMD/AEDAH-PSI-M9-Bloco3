@@ -61,7 +61,7 @@ namespace Ex4
                 // Produto normal disponível
                 picProduto.Image = Properties.Resources.produtoDisponivel;
             }
-
+            Console.Beep();
         }
 
         private void label1_Click(object sender, EventArgs e)
